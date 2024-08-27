@@ -23,3 +23,12 @@ LLM and Foundation Models for Cybersecurity
 * 2024, USENIX Sec, [Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models](https://www.usenix.org/system/files/usenixsecurity24-yu-zhiyuan.pdf)
 * 2024, USENIX Sec, [Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://www.usenix.org/system/files/usenixsecurity24-liu-tong.pdf)
 * 2024, NDSS, [MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots](https://www.ndss-symposium.org/wp-content/uploads/2024-188-paper.pdf)
+* 2024, arXiv, [When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search](https://arxiv.org/pdf/2406.08705)
+* 2024, arXiv, [RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs](https://arxiv.org/pdf/2406.08725)
+
+
+## Foundation Model for Computer Security
+* 2024, arXiv, [netFound: Foundation Model for Network Security](https://arxiv.org/pdf/2310.17025)
+* 2022, WWW, [Et-bert: A contextualized datagram representation with pre-training transformers for encrypted traffic classification](https://arxiv.org/pdf/2202.06335)
+  
+
